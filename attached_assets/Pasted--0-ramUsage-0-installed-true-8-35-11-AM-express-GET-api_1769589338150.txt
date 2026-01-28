@@ -1,0 +1,25 @@
+":0,"ramUsage":0,"installed":true}
+8:35:11 AM [express] GET /api/server/3/logs 200 in 1ms :: {"success":true,"logs":[]}
+8:35:14 AM [bedrock] [Server 3] NO LOG FILE! - Failed to up file descriptor limit Operation not permitted
+NO LOG FILE! - setting up server logging...
+8:35:14 AM [bedrock] [Server 3] [2026-01-28 08:35:14:021 INFO] Starting Server
+[2026-01-28 08:35:14:021 INFO] Version: 1.21.51.02
+[2026-01-28 08:35:14:021 INFO] Session ID: 526da180-d206-4997-8ca9-cbbff8aba20e
+[2026-01-28 08:35:14:021 INFO] Build ID: 29823500
+[2026-01-28 08:35:14:021 INFO] Branch: r/21_u5
+[2026-01-28 08:35:14:021 INFO] Commit ID: 15737c809ed75cbc4a361ffa3c5c2df76ff78d42
+[2026-01-28 08:35:14:021 INFO] Configuration: Publish
+[2026-01-28 08:35:14:021 ERROR] Error reading file: server.properties
+[2026-01-28 08:35:14:022 ERROR] Could not load server.properties file, Please check if the current working directory is the same as the bedrock_server directory.
+[2026-01-28 08:35:14:022 INFO] Server stop requested.
+8:35:14 AM [express] GET /api/servers 304 in 3ms :: [{"id":3,"name":"sea","port":19132,"maxPlayers":20,"gameMode":"survival","difficulty":"normal","status":"online","playersOnline":0,"cpuUsage":0,"ramUsage":0,"installed":true}]
+8:35:18 AM [express] GET /api/servers 304 in 2ms :: [{"id":3,"name":"sea","port":19132,"maxPlayers":20,"gameMode":"survival","difficulty":"normal","status":"online","playersOnline":0,"cpuUsage":0,"ramUsage":0,"installed":true}]
+8:35:21 AM [express] GET /api/servers 304 in 1ms :: [{"id":3,"name":"sea","port":19132,"maxPlayers":20,"gameMode":"survival","difficulty":"normal","status":"online","playersOnline":0,"cpuUsage":0,"ramUsage":0,"installed":true}]
+8:35:22 AM [express] GET /api/servers/3 200 in 2ms :: {"id":3,"name":"sea","port":19132,"maxPlayers":20,"gameMode":"survival","difficulty":"normal","status":"online","playersOnline":0,"cpuUsage":0,"ramUsage":0,"installed":true}
+8:35:23 AM [express] GET /api/server/3/logs 200 in 1ms :: {"success":true,"logs":["[08:35:14] NO LOG FILE! - Failed to up file descriptor limit Operation not permitted\nNO LOG FILE! - setting up server logging...\n","[08:35:14] [2026-01-28 08:35:14:021 INFO] Starting Server\n[2026-01-28 08:35:14:021 INFO] Version: 1.21.51.02\n[2026-01-28 08:35:14:021 INFO] Session ID: 526da180-d206-4997-8ca9-cbbff8aba20e\n[2026-01-28 08:35:14:021 INFO] Build ID: 29823500\n[2026-01-28 08:35:14:021 INFO] Branch: r/21_u5\n[2026-01-28 08:35:14:021 INFO] Commit ID: 15737c809ed75cbc4a361ffa3c5c2df76ff78d42\n[2026-01-28 08:35:14:021 INFO] Configuration: Publish\n[2026-01-28 08:35:14:021 ERROR] Error reading file: server.properties\n[2026-01-28 08:35:14:022 ERROR] Could not load server.properties file, Please check if the current working directory is the same as the bedrock_server directory.\n[2026-01-28 08:35:14:022 INFO] Server stop requested.\n"]}
+8:35:25 AM [express] GET /api/server/3/logs 304 in 1ms :: {"success":true,"logs":["[08:35:14] NO LOG FILE! - Failed to up file descriptor limit Operation not permitted\nNO LOG FILE! - setting up server logging...\n","[08:35:14] [2026-01-28 08:35:14:021 INFO] Starting Server\n[2026-01-28 08:35:14:021 INFO] Version: 1.21.51.02\n[2026-01-28 08:35:14:021 INFO] Session ID: 526da180-d206-4997-8ca9-cbbff8aba20e\n[2026-01-28 08:35:14:021 INFO] Build ID: 29823500\n[2026-01-28 08:35:14:021 INFO] Branch: r/21_u5\n[2026-01-28 08:35:14:021 INFO] Commit ID: 15737c809ed75cbc4a361ffa3c5c2df76ff78d42\n[2026-01-28 08:35:14:021 INFO] Configuration: Publish\n[2026-01-28 08:35:14:021 ERROR] Error reading file: server.properties\n[2026-01-28 08:35:14:022 ERROR] Could not load server.properties file, Please check if the current working directory is the same as the bedrock_server directory.\n[2026-01-28 08:35:14:022 INFO] Server stop requested.\n"]}
+8:35:26 AM [express] GET /api/servers/3 304 in 2ms :: {"id":3,"name":"sea","port":19132,"maxPlayers":20,"gameMode":"survival","difficulty":"normal","status":"online","playersOnline":0,"cpuUsage":0,"ramUsage":0,"installed":true}
+8:35:27 AM [express] GET /api/servers 304 in 2ms :: [{"id":3,"name":"sea","port":19132,"maxPlayers":20,"gameMode":"survival","difficulty":"normal","status":"online","playersOnline":0,"cpuUsage":0,"ramUsage":0,"installed":true}]
+8:35:30 AM [express] GET /api/servers 304 in 2ms :: [{"id":3,"name":"sea","port":19132,"maxPlayers":20,"gameMode":"survival","difficulty":"normal","status":"online","playersOnline":0,"cpuUsage":0,"ramUsage":0,"installed":true}]
+8:35:34 AM [express] GET /api/servers 304 in 2ms :: [{"id":3,"name":"sea","port":19132,"maxPlayers":20,"gameMode":"survival","difficulty":"normal","status":"online","playersOnline":0,"cpuUsage":0,"ramUsage":0,"installed":true}]
+8:35:37 AM [express] GET /api/servers 304 in 1ms :: [{"id":3,"name":"sea","port":19132,"maxPlayers":20,"gameMode":"survival","difficulty":"normal","status":"online","playersOnline":0,"cpuUsage":0,"ramUsage":0,"installed":true}]
